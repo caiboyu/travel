@@ -1,0 +1,15 @@
+通配符 reset  还有一像素边框解决方案 border  在main.js中引入
+
+有些机型浏览器 click有300毫秒延迟现象  引入fastclick库  cnpm install fastclick --save   在main.js中引入
+
+css的开发辅助工具
+安装 stylus  如同less 或者sass   cnpm install stylus --save  cnpm install stylus-loader --save
+
+使用iconfont  
+
+首页轮播，使用 cnpm install vue=awesome-swiper --save
+
+使用axios  cnpm install axios --save
+
+使用better-scroll   cnpm install better-scroll --save
+解决原生滑动的问题
