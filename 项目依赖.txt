@@ -13,3 +13,5 @@ css的开发辅助工具
 
 使用better-scroll   cnpm install better-scroll --save
 解决原生滑动的问题
+
+使用vuex 实现首页和搜索页的数据共享 npm install vuex --save
