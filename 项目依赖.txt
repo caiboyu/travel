@@ -9,7 +9,7 @@ css的开发辅助工具
 
 首页轮播，使用 cnpm install vue=awesome-swiper --save
 
-使用axios  cnpm install axios --save
+使用axios  cnpm install axios --save  解决数据交互问题
 
 使用better-scroll   cnpm install better-scroll --save
 解决原生滑动的问题
